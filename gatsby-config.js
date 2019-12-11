@@ -4,7 +4,7 @@ module.exports = {
     description: 'Headless WordPress with Gatsby FTW.',
     author: 'Scott and Justin',
     twitter: '@staticfuse',
-    siteUrl: `http://localhost/gatsby-backend`,
+    siteUrl: `https://gatsby123.000webhostapp.com/`,
   },
   plugins: [
     {
@@ -14,7 +14,7 @@ module.exports = {
         mailChimpEndpoint: 0,
         dynamicComments: 1,
         gaTrackingId: 0,
-        wordPressUrl: `http://localhost/gatsby-backend`,
+        wordPressUrl: `https://gatsby123.000webhostapp.com/`,
         blogURI: '/blog'
       },
     },
